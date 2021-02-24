@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="123px" height="12px" preserveAspectRatio="xMinYMid meet" viewBox="1550 31  123 10" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1553 36.5  L 1662 36.5  A 5 5 0 0 1 1667.5 41.5 L 1667.5 121  A 5 5 0 0 0 1672.5 126.5 L 1782 126.5  " stroke-width="3" stroke-dasharray="9,3" stroke="#70b603" fill="none" />
-  <path d="M 1554 32.5  A 4 4 0 0 0 1550 36.5 A 4 4 0 0 0 1554 40.5 A 4 4 0 0 0 1558 36.5 A 4 4 0 0 0 1554 32.5 Z M 1772.9 136.5  L 1785 126.5  L 1772.9 116.5  L 1777.8 126.5  L 1772.9 136.5  Z " fill-rule="nonzero" fill="#70b603" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="47px" preserveAspectRatio="xMidYMin meet" viewBox="689 139  10 47" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 694.5 142  L 694.5 175  A 5 5 0 0 0 699.5 180.5 L 1608 180.5  A 5 5 0 0 1 1613.5 185.5 L 1613.5 563  A 5 5 0 0 0 1618.5 568.5 L 1782 568.5  " stroke-width="3" stroke-dasharray="9,3" stroke="#70b603" fill="none" />
+  <path d="M 694.5 139  A 4 4 0 0 0 690.5 143 A 4 4 0 0 0 694.5 147 A 4 4 0 0 0 698.5 143 A 4 4 0 0 0 694.5 139 Z M 1772.9 578.5  L 1785 568.5  L 1772.9 558.5  L 1777.8 568.5  L 1772.9 578.5  Z " fill-rule="nonzero" fill="#70b603" stroke="none" />
 </svg>
