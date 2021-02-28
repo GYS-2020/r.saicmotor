@@ -18030,6 +18030,9 @@
   width:316px;
   height:40px;
   display:flex;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
   color:#FACD91;
 }
 #u511 .text {
